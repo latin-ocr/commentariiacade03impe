@@ -1,0 +1,40 @@
+46 DE ARITHMETICA FIGVRATA
+
+lutio ergo problematis in eo breuiter consistit , vt
+pro parte aequationis sinistra describatur series col-
+lec‘riua 7 (per §§. 12. 13. 14.) In descripta serie
+quaeratur pars aequationis dextra vna cum supra
+scripta radice ι fic inuenitur quod quaerebatur.
+
+25. Res exemplo digna est··, sit proposita
+aequatio ·. .1“—†—x4-3 7x327 1.r²—†—346x-†-840:0.
+Sinistra pars aequ-ationis est terminus generalis seriei
+collectitiae alicuius sexti ordinis ·‚ Eius igitur diffe-
+rentiae originales inueniantur per ἕ. 1 5. vbi pona-
+tur p11·q:1.r:—3 7s1—71. t13467 et v1840.
+vt emergat a1120. hz-216 cuz-108. dz64.
+e1380. ets1840.
+quarum ope sequeus construatur series :
+
+120 120 120 120 120 120 120 120 120 120 1ῑο 12ο
+„316 -696 -576 -456 -336 -216 -96 24 144 264 384 504
+2172 ¹476 900 444 108 -108 -204 -108 -36 228 612 1116
+-2736-1280 -380 64 172 64 -140 -320 -356 -123 484 1600
+820 -460 80 144 316 380 240 -80 -46 *564 -80 1520
+380 -30 0 144 460 840 1080 1000 54 ᾗ -εᾷ 1440
+
+Sub radicibus 44 et -3. inuenitur pars dextra ae·—
+quationis exacte , hae ergo radices sunt integrae et
+exactae. luter radices 5 et6 existit pars aequatio-
+nis quoque quia sub ς’α est —80 et sub 6ΐα est-÷- 1440
+ab vno autem ad alterum terminum transitus non
+fit nisi eundo per 0. nihilum ita intercipitur , ergo
+et radix eius intercipitur inter 5 et 6. Idem in-
+tellige de duabus radicibus —5 et —4 quas inter alia
+aequationis radix ambigit. ’
+
+26. Siradices magnae sunt, magnae quoque
+requiruntur series, quae taediosum calculum pa-
+
+rmntg
+

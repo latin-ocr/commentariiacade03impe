@@ -1,0 +1,40 @@
+92 OBSER VATJONES
+
+strauim1153 praefero antem hanc summandi metho-
+dum nliis ob vniuerfflitatem eius.
+
+1 1. Hactenus dicta pleraque iam antelios qua-
+tuor annos mihi innotuerunt, et antea quoque plu·-
+rimas proprietates detexeram, quibus series nostrae
+plane abundant ‚ quasque hic exponerem , nisi in
+generalibus subsistere constituiflem. Sed vnum non
+praetergrediar , quod nunc demum mihi fuit obser-
+vatum‚poffe ope seriei-um nostrarum radices omnium
+aequati011um algebraicarum‚ cuiuscunque sint dimen-
+sionis, expedita, tuta et faciliappropinquatione ha-
+berisine vlla praeuia tentatione quas reliquae methodi
+postulare solent. Est mihi methodus duplex, alte-
+ra pro minima , altera pro maxima aequ-ationis ra-
+dice inuenienda ‚ attentione non faeta ad signa ra-
+dicibus praefixa , ita vt fic radix tam quae maximo
+qnam quae minime a nihilo distat, determinari pos-
+sit.
+
+1 2. Ascthodus nonainueniendi radices omnes cu·
+irc-:cunque aequationls ςιῃέἑῖαε tam numericae quam alge-
+hir-aicae.
+concilietur'aequationi propositae haec forma
+
+1:a,r—-†-bxx—†-c·.v3—{-ex4-†- &c.
+
+Dein formetur series incipiendo atot terminis arbi-
+trariis, quot dimensiones aequatio habet , ea lege ‚
+vt si A, B‚· C, D, E &c. denotent terminos se in·-
+vicem direasto ordine consequentes ‚ fit vbique E:
+aD÷hC÷cB÷eA —4—&0 fintque in hac serie satis
+continuata duo termini proximi M et N , erit ter-
+minus antecedens M diuisus per consequentem N
+proxime aequalis radici quaefitae.
+
+13.
+

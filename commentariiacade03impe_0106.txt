@@ -1,0 +1,42 @@
+8 8 OBSERVATIONES
+
+. Coroll. 1. Omnes seriessecundiordinishabent
+terminum quemcunque aequalem triplo praeceden-
+ti> seu xltimi minus triplo penultimi plus antepen-
+Vltimi).
+
+Exempli loco sint numeri trigonales 1. 3.6.10.
+13. 21. &a erit 21.:3. 15. -— 3.10‘†-6;1ut 15 z
+3. 10.---3.6-1s-3.
+
+Coroll. 2. In omuibus seriebus tertii ordinis
+est terminus quini> Ξ quadruplo vltimi minus sextu-
+plo penultimi plus quadruplo antepenultimiminus
+penantepeuultimo.
+
+Exempli gratia sint cubi numerorum natura-
+lium 1. S. 27. 64. 125. 216. 343.&c. erit343z4.
+125—·6.64—‘1—4.27—8.
+
+5. Apparet ex praecedente theoremate,
+quanam lege series recurrentes construi debeant, ita
+Π fiant algebraicae. Si vero alia, quam quae mo-
+do definita fuit, lex fingatur ‚ semper series orien-
+tur transcendentes, seu potius exponentiales ‚ qua-
+rum terminus generalis vt inueniatur, sequens pro-
+positio inseruiet.
+
+Lemma. Quaecunque sint coefficientes m, ''vs”
+
+. Al, poterit semper exhiberi series nume-
+rorum continue proportionalium talis, vt denotan-
+tibus iterum litteris A ‚B‚ C, D, ..... Eter—
+minas contiguos ordine retrogrado e serie excer-
+ptos , quotum numerus indicatur pet N, fit Azm
+B÷JIC÷pD. . . . . -i—qE.
+
+Denmniz‘rarjo. Si enim terminus generalis in
+progressione geometrica quaesita fit ax , hicque po-
+
+natur
+

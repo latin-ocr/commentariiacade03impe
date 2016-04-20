@@ -1,0 +1,54 @@
+30 DE ARITHMETICA FIGVRATA ἦ
+
+que seriesE‚ F et quotcunque aliae. Has series col-
+etiuas nomino ·, numeros in serie A qui indicant
+quotitatem cuiusuis termini, radices voco·, nume-
+ros tandem qui indicant quoti ordinis sit aliqua se·
+ries, indices dicere liceat. Exemplum rei sequen·
+tes series exhibent.
+
+Radices
+
+l
+L
+
+12345678
+
+3 3 3 3 3 3 3 3
+5 8 11 14 17 20 23 26
+5 13 24 38 55 75 98 124
+6 19 43 81 136 211 309 433
+
+Indices
+
+*siffvnw ζί>
+
+1
+3
+4
+5
+
+4, Ex data definitione intelligitur quoque
+quomodo series retro continuari poffint. Prima
+enim series vbique eosdem et datos habet terminos,
+secunda autem retroagitur subtrahendo primae seriei
+terminum superstantem quemlibet a suo substante in
+secunda serie ·‚ qui enim restat numerus est termi-
+nus ille qui substantem praecedit. Eodem modo
+continuatur tertia series retr070pe secundae seriei 3
+quarta ope tertiae , et fic porro. Ceterum id
+quoque manifestum est ‚ quod serierum retroacta-
+rum radices negatiuae euadant. Terminos‚qui pri-
+mos quoslibet immediate praecedunt,differentias o-
+riginales nomino , quarum consequenter radices
+sunt nihilo aequales. Quae dixi, exemplo sequenti
+declaro.
+
+29..
+153..
+586..
+
+13 32 75 156 292 503 812 1245
+
+Radi-
+

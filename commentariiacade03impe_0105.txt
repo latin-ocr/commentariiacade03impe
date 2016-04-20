@@ -1,0 +1,48 @@
+DE SERIEBVS REQVRRENTIBVS. 87
+
+tiodos siue ratione fignorum fiue ratione numero-
+rum , in quas Vsque recurrunt ‚ veluti sequens in
+qua quilibet terminus aequalis est differentiae duo-
+rum praecedentium 0. 1. 1. 0. -1. -1. ο. 1. 1. 0.
+-ι, ——1. 0. etc. hinc procul dubio est ‚ quod gene-
+raliter recurrentes nominari coeperint. Quoties
+autem adsunt huiusmodi periodi terminus generalis
+non aliter quam per quantitates imaginarias expri-
+mi potest.
+
+3. Proprietas haudinelegans est serierum recur-
+rentium, quod comprehendunt omnes algebraicas
+fimul atque geometricas. De progreffionibus geo-
+metricis res satis obuia est ⁷ et magis illustrabitur in
+sequentibus : de algebraicis nunc dicemus (voco au-
+temseries algebraicas ‚ quarum terminus generalis
+hac formula catholica comprehenditur a-÷b.i'—4—c‘.t.v
+-†—dx³—}- &e illasque di'co pertinere ad ordinem n,
+quando maxima dimensio ipsius x in termino gene·
+raliest: n et per x intelligo exponentem termini.)
+Theorema circa hanc rem se mihi obtulit7quod non
+credideram, vlli antea fuisse obseruatum , quod vev
+ro postmodumiama Moiureo in tractatu suo demen-
+[urasortis detectum fuiss'e intellexi : Ecceillud‚
+
+4. Theorema generale pro omnibus seriebus al·-
+gebraicis.
+
+In omni serie algebraica ordinis cuiuscun-
+que n—-1, si excerpantur ordine retrogra-
+do termini contigui, numero n—l— 1 , defi-
+gnati litteris Α, Β, C , D, E, &a dico fore
+semper Aan — uta-1)C÷n.<n-.> (n-2.) D -
+
+θ 2-3
+
+ἐέ-ηῑὲέ(ζῇζΜτ-Ξ> Ε-ὶ- &c,
+
+ 
+
+ 
+
+ 
+
+Coross
+

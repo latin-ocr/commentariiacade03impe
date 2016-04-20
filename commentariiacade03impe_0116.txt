@@ -1,0 +1,37 @@
+98 OBSERVATJONES
+
+suntque slmiles formulae omnes purae algebraicae et
+rationales pro cund‘tis aequationibus algebraicis ex-
+hiberi. Denique me vel non monente liquet, pos-
+se succeffiue omnes radices reales inueniri ‚ quia ae,
+quatio per inuentam primam radicem diuidi, post-
+eaque secunda radix inueniri potest ·, debet autem
+rcfiduum diuisionis‚q110d semper minimum erit,ne-
+gligi, aut quod satius est, inuenta vna radice, pona·
+tur 22:151—4-a2hac enim positione reete instituta quae-
+vis radix in minimam aut maximamprolubitu muta-
+ri potest-‚dehis forsan alio tempore: nunc paucis in-
+dicabo methodum altet-am ‚ dc qua ᾗ. 1 1 . dixi, illam
+inseruire omnium aequationum radicimaximac inue—
+niendae.
+
+20. Proposita rursus fit aequatio catholica,
+sedin sequentem modum disposita.
+
+xmza.t·⁷'¹‘-¹ -i—b.1<⁷⁷²-2—÷-c.rm-³ ..... -i-d.
+formeturqueseriesincipiendo a tot terminis arbitra-
+riis quot dimensionum aequatio est talis, xt sl A, B,
+C ‚ D, E etc. denotent terminos directo ordine e
+serie excerptos et contiguos, fit vbique E :aD —†-
+bC—Js-c·B-÷—AA etc. sintque in hac serie satis continua·
+ta duo termini proximi M et N , erit terminus con·
+sequens N diuisus per antecedentem M proxime ae-
+qualis radici quaesitae.
+
+2 1 . Exempli loco eandem sumemus aequatio—
+nem quae ἕ. 1 3. est et cuius radix minima erat -Τῖἕξφ
+sedita dispositam
+
+.x'4:4.t·³—5·x.2⁴-†—2x-1.
+Qiod fi iam fiat talis series:
+

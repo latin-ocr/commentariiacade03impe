@@ -1,0 +1,52 @@
+EIVSQVE VSIBVS ALJQVOT. 39
+
+12
+
+22 34
+
+4 26 60
+
+-7 -3· 23- 83
+
+Cum haec subtrac‘tio nihil fit nisi resolutio seriei
+collectitiae in suas ordine priores ‚ (quod intelligi-
+tur ex §. 3.) patet Vltimum residuum (hic. 12.) effe
+terminum seriei primae qui per totam seriem idem
+est. (§. 3.) habetur ergo series prima, et ex seriebus
+succedentibus habentur quoque aliquot termini7quo-
+rum consequenter ope omnes series adeoque et se-
+ries quaesita per solam additionem prorsum et re-
+trorsum continuantur (per 9. 3. et 4.) Calculus er-
+go erit talis :
+
+Radices - 2 - 1 0 1 2 3 4 5
+
+12 12 12 12 12 12 12 12
+-26 ——14 - 2 10 22 34 46 58
+10—4—6 4 26 60 106 164
+5 1—-7-:3 23 83189 353
+13. Alter modus hic est : Conferatur pro-
+posita formula cum formula v11iuersali correspon-
+denti (ᾗ. 10.) aequationibusque inter coe‘fficientes
+eosdem pro more institutis ‚ eliciantur valoresdif-
+ferentiarum originalium, Sic proposita nostra for-
+mula 2x3-4—5.i·'2‘-3x-7 conferenda est cum vniuer=
+sali formula quarti ordinis, inde fiet
+{22 adeoque a112.
+'²⁴5²’ Ξῑῖῖὖῑσ-ι-ὲὸῐς adeoque b:-2 .
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+§aq-{52:460 Ξῖ-’τῑ-ΞΞ-Ξτ. 3 -ἡ-εῑῐ- 3 adeoque c:-b
+&⁴7-
+
+haben·¹
+

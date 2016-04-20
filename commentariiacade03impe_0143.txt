@@ -1,0 +1,38 @@
+DIFFERENTIO-DIFFERENTIAL. 1 25
+
+runt , quod desiderabant. Cum autem integratio
+vel prorsus impossibilis, vel saltem difficilior vide-
+tur, conantur eas ad differentiales primi gradus re-
+ducere 3 quippe de quibus facilius iudicari potest, an
+construi queant 3 nullaeque aequationes differentia- .
+les, nisi primi gradus, adhuc cognitis methodiscon-
+strui poffint. Quod ad illud attinet, de eo hac dis-
+sertatione explicare non est propositum ·‚ quomodo
+autem aequationes differentiales altiorum graduum
+praesertim vero secundi ad differentiales primi
+gradus fint reducendae, methodum quandam adhuc
+inusitatam , et quae latiffime patet in sequentibus
+sum expositurus.
+
+2. Iam quidem saepenumero Mathematici ,
+quando aequ-„itiones differentiales secundi vel altio—
+
+rum graduum occurrerunt, eas ad differentiales pri-
+mi gradus reduxerunt, atque deinde construxerunt3
+quemadmodum videre licet in constructionibus ca-
+tenariae,elasticae‚proiectoriae in medio quocunque
+resistenti pluriumque aliarum curu-arum, quarum ae-
+quationes primo differentiales secundi vel tertii gra-
+dus sunt inuentae. Pleraeque quidem earum reipsa
+integrabiles sunt ‚ sed tamen cas facilius erat inte-
+grare , postquam ad differentiales primi gradus fue-
+rant reductae. Earum autem aequationum ratioita
+est comparata ‚ vt vel Vtraque vel saltem alterutra
+indeterminata ipsa defit, earum eiusne differentiali-
+bus et differentio - differentialibus aequationes tan-
+tum ingredientibus.
+
+3- Si autem in aequatione differentio - diffe-
+
+Q 3 ren-
+

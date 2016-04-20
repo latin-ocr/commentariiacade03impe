@@ -1,0 +1,49 @@
+50 DE ARJTHMETICA FIGVRATA
+
+nitum progrediuntur formula itaquegeneralis quae-
+fita erit
+{lm-l—ssum‘¹ bssss·-m-Tssam-2b2÷ss·m-21 'Qum—3b34·
+
+35. Sufficit vnicum hoc attuliffe exemplum ·,
+erit vt alia data occafione plura et difficiliora forsan
+in medium proferam , quae vtilitatem huiustheo-
+riae magis commendent.
+
+36. Tertio ‚ ad interpolationes accuratiores
+multum faciunt series collcc‘tiuae. Numerorum e-
+nim series ‚ inter quos alii interpolandi sunt ‚ con-
+siderantur tanquam collee‘ssuae ‚ et resoluuntur in
+suas priores, vti supra fastum cst (§. 1 2. et 40.)po·
+stea indagantur differentiae originales ex quibus for-
+mula generalis conditur (vti antea §. 42.) quae non
+tantum propositos numeros sub se complectitur7sed
+
+et quoslibet intermedios.
+37, Exemplo vnico totum artificium dispa-
+
+lescet. Sint datitres numeri ς. 7. 11. instituetur
+igitur eius resolutio et simul differentiarum origin&
+
+lium inuentio vti sequitur.
+
+ 
+
+ 
+
+ 
+
+R·1.uices 0 1 2 3
+l
+2 2 2! 2
+Differentiaeg l
+originales. l — 2 ol l 2 4
+5 l 5 7 1 1
+
+ 
+
+Vltimum refidum habeatur pro termino seriei or-
+dinis primi , cuius ope series retroaguntur et diffe-
+
+tentiae originales inueniuntur (504‘) quibus datis,
+gesse‘
+
